@@ -1,0 +1,21 @@
+{
+  "name": "shy1118",
+  "version": "1.0.0",
+  "description": "Hi, I am SHY.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shy1118999/shy1118"
+  },
+  "scripts": {
+    "shy": "./index.js"
+  },
+  "author": "shy1118",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
